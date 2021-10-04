@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "AutoLayout-Helper"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.0"
   spec.summary      = "Helper Methods for programmatically written AutoLayout code"
   spec.description  = <<-DESC
   Helper Methods for programmatically written AutoLayout code.
